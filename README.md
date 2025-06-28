@@ -24,9 +24,12 @@ Download the latest release from the [Releases](https://github.com/LiamVilbuni/S
 ## Contributing
 If you would like to contribute to SnippStack, please fork the repository and submit a pull request. Contributions are welcome!
 
-## Icons
-- [App Icon](https://icons8.com/icon/dUwwXISWKEtk/html-tag) by [Icons8](https://icons8.com)
-
 ## Technology Stack
 - Python
 - PyQt6 for GUI
+
+## Credits
+- SnippStack is developed by Liam Vilbuni.
+- Bundled using PyInstaller
+- Installer created using InstallForge
+- [App Icon](https://icons8.com/icon/dUwwXISWKEtk/html-tag) by [Icons8](https://icons8.com)
