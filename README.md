@@ -26,3 +26,7 @@ If you would like to contribute to SnippStack, please fork the repository and su
 
 ## Icons
 - [App Icon](https://icons8.com/icon/dUwwXISWKEtk/html-tag) by [Icons8](https://icons8.com)
+
+## Technology Stack
+- Python
+- PyQt6 for GUI
