@@ -1,0 +1,8 @@
+.venv
+
+*.json
+
+*.spec
+dist
+*.exe
+*.png
