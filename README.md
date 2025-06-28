@@ -30,6 +30,6 @@ If you would like to contribute to SnippStack, please fork the repository and su
 
 ## Credits
 - SnippStack is developed by Liam Vilbuni.
-- Bundled using PyInstaller
-- Installer created using InstallForge
-- [App Icon](https://icons8.com/icon/dUwwXISWKEtk/html-tag) by [Icons8](https://icons8.com)
+- Bundled using PyInstaller.
+- Installer created using InstallForge.
+- [App Icon](https://icons8.com/icon/dUwwXISWKEtk/html-tag) by [Icons8](https://icons8.com).
